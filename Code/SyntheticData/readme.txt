@@ -1,0 +1,1 @@
+The dataset can be loaded using the pickle library in Python. The object is a standard Pytorch Geometric Data objects, and can be treated as such.
